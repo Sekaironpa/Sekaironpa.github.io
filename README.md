@@ -1,1 +1,1 @@
-# Sekaironpa!
+Sekaironpa!
