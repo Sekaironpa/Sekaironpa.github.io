@@ -1,6 +1,12 @@
 <html lang="en">
 <head>
-  <title>Sekaironpa</title>
+
+  <style>
+  img{
+    display: block;
+    margin: auto;
+  }
+  </style>
 </head>
 <body>
 <img src="/sekaironpalogo.png" alt="description" align="middle">
