@@ -2,14 +2,17 @@
 <head>
 
   <style>
-  img{
-    display: block;
-    margin: auto;
+  div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   </style>
 </head>
 <body>
-<img src="/sekaironpalogo.png" alt="description" align="middle">
+  <div>
+    <img src="/sekaironpalogo.png" alt="Sekaironpa">
+  </div>
 <p>Have you ever thought about how it would be to own the world? Just imagine, being gifted the unfathomable power to be able to do anything you'd want with little to no consequences.</p>
 
 <p>If you have thought about it, welcome to Sekaironpa! It's a crossover between Danganronpa and Project sekai where the power in question has been taken into action.</p>
